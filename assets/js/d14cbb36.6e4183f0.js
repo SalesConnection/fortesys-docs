@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfortesys_doc=self.webpackChunkfortesys_doc||[]).push([[858],{5466:s=>{s.exports=JSON.parse('{"title":"Questions","slug":"/category/questions","permalink":"/fortesys-docs/docs/category/questions","navigation":{"next":{"title":"Questions on 2024-04-01","permalink":"/fortesys-docs/docs/questions/question-2024-04-01"}}}')}}]);

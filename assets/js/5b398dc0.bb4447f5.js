@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfortesys_doc=self.webpackChunkfortesys_doc||[]).push([[759],{8663:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/fortesys-docs/blog/tags/hola","allTagsPath":"/fortesys-docs/blog/tags","count":1,"unlisted":false}')}}]);

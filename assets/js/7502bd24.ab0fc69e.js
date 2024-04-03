@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfortesys_doc=self.webpackChunkfortesys_doc||[]).push([[225],{8139:s=>{s.exports=JSON.parse('{"permalink":"/fortesys-docs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
